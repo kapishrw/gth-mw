@@ -29,7 +29,7 @@ int main() {
 	vector<int> vi;
 	vector<double> vd;
 
-	for (int i = 0; i < 20; i++) {
+	for (int i = 0; i < 40; i++) {
 		vi.push_back(i);
 		vd.push_back(i / 1.1);
 	}
