@@ -29,7 +29,11 @@ int main() {
 	vector<int> vi;
 	vector<double> vd;
 
+<<<<<<< HEAD
 	for (int i = 0; i < 50; i++) {
+=======
+	for (int i = 0; i < 40; i++) {
+>>>>>>> 17008cd7ad3d7dcb45bc05a1dc6bca27dc3cd9bd
 		vi.push_back(i);
 		vd.push_back(i / 1.1);
 	}
